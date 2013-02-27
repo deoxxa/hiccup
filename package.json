@@ -1,0 +1,24 @@
+{
+  "name": "hiccup",
+  "version": "0.0.0",
+  "description": "a sporadically choking stream; burp this baby!",
+  "main": "lib/hiccup",
+  "scripts": {
+    "test": "mocha -R nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/naomik/hiccup.git"
+  },
+  "keywords": [
+    "stream",
+    "streams2",
+    "mock"
+  ],
+  "author": "Naomi Kyoto <nakyoto@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mocha": "~1.8.1"
+  }
+}
