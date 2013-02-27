@@ -15,6 +15,9 @@
     "streams2",
     "mock"
   ],
+  "engines": {
+    "node": "~0.9"
+  },
   "author": "Naomi Kyoto <nakyoto@gmail.com>",
   "license": "BSD",
   "readmeFilename": "README.md",
